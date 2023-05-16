@@ -1,0 +1,1 @@
+Fichier texte pour synchronisation avec Github (utilisant SSH).
